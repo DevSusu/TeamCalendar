@@ -1,0 +1,26 @@
+html, body
+{
+	width: 100%;
+}
+body
+{
+	text-align: center;
+}
+h1
+{
+	font-size: 5em;
+}
+footer
+{
+	margin: 3em;
+	padding: 3em;
+}
+.f_label
+{
+	text-align: left;
+	float: left;
+}
+#sign_btn
+{
+	display: none;
+}

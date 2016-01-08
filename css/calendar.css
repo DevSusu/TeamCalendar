@@ -1,0 +1,30 @@
+
+.vday
+{
+	padding: 1.57em;
+	border: 1px black solid;
+}
+.viewer
+{
+	width: 75%;
+	margin: 1.75em;
+	padding: 14px;
+	border: 1px black solid;
+	border-radius: 4px;
+}
+.tableset
+{
+	padding: 3px;
+}
+.teamset
+{
+	font-size: 1.2em;
+}
+.hide
+{
+	display: none;
+}
+.show
+{
+	display: block;
+}
